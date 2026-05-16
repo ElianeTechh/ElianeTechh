@@ -2,13 +2,6 @@
 
 ###
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/ElianeTechh/ElianeTechh/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/ElianeTechh/ElianeTechh/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -48,17 +41,3 @@
 <img src="https://raw.githubusercontent.com/ElianeTechh/ElianeTechh/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-<!--
-**ElianeTechh/ElianeTechh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
